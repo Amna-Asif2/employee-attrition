@@ -1,6 +1,3 @@
-<img width="1329" height="562" alt="employee-attrition-dashboard" src="https://github.com/user-attachments/assets/6fad6d19-7d89-4408-a6b3-fbf72fda4c89" /># employee-attrition
-HR Employee Attrition project analyzing why employees leave companie using Excel and Tableau.
-
 # HR Employee Attrition Dashboard 
 
 ## Project Overview
