@@ -39,7 +39,7 @@ Sample HR Employee Attrition Dataset
 
 
 ## Dashboard Preview
-[Dashboard Screenshot](images/ employee-attrition-dashboard.PNG)
+[Dashboard Screenshot](images/employee-attrition-dashboard.PNG)
 
 
 ## Deliverables
